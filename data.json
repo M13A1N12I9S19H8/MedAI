@@ -1,0 +1,264 @@
+{
+    "diseases": [
+      {
+        "name": "Common Cold",
+        "symptoms": ["Runny nose", "Sneezing", "Sore throat", "Cough", "Mild fever"],
+        "prevention": ["Wash hands regularly", "Avoid close contact with sick people", "Maintain good hygiene"],
+        "treatment": ["Rest", "Hydration", "Over-the-counter cold medications"]
+      },
+      {
+        "name": "Influenza",
+        "symptoms": ["Fever", "Chills", "Body aches", "Cough", "Fatigue"],
+        "prevention": ["Annual flu vaccine", "Hand hygiene", "Avoiding sick people"],
+        "treatment": ["Antiviral medications", "Rest", "Fluids"]
+      },
+      {
+        "name": "Diabetes Type 2",
+        "symptoms": ["Increased thirst", "Frequent urination", "Fatigue", "Blurred vision"],
+        "prevention": ["Healthy diet", "Regular exercise", "Weight control"],
+        "treatment": ["Oral medications", "Insulin", "Diet and exercise"]
+      },
+      {
+        "name": "Hypertension",
+        "symptoms": ["Often none", "Headaches", "Shortness of breath", "Nosebleeds"],
+        "prevention": ["Low-sodium diet", "Exercise", "Avoiding alcohol and smoking"],
+        "treatment": ["Antihypertensive drugs", "Lifestyle changes"]
+      },
+      {
+        "name": "Asthma",
+        "symptoms": ["Wheezing", "Shortness of breath", "Chest tightness", "Coughing"],
+        "prevention": ["Avoid triggers", "Use preventive inhalers", "Stay indoors on high-pollen days"],
+        "treatment": ["Inhalers", "Steroids", "Bronchodilators"]
+      },
+      {
+        "name": "Pneumonia",
+        "symptoms": ["Chest pain", "Cough with phlegm", "Fever", "Fatigue", "Shortness of breath"],
+        "prevention": ["Vaccination", "Hand hygiene", "Avoid smoking"],
+        "treatment": ["Antibiotics", "Rest", "Fluids"]
+      },
+      {
+        "name": "Tuberculosis",
+        "symptoms": ["Persistent cough", "Weight loss", "Night sweats", "Fever"],
+        "prevention": ["BCG vaccination", "Avoid close contact with TB patients", "Good ventilation"],
+        "treatment": ["Long-term antibiotics", "DOTS therapy"]
+      },
+      {
+        "name": "Malaria",
+        "symptoms": ["Fever", "Chills", "Sweating", "Vomiting", "Headache"],
+        "prevention": ["Mosquito nets", "Insect repellent", "Antimalarial prophylaxis"],
+        "treatment": ["Antimalarial medications"]
+      },
+      {
+        "name": "Dengue Fever",
+        "symptoms": ["High fever", "Severe headache", "Pain behind eyes", "Joint/muscle pain", "Skin rash"],
+        "prevention": ["Avoid mosquito bites", "Eliminate standing water", "Use mosquito repellent"],
+        "treatment": ["Pain relievers", "Fluids", "Rest"]
+      },
+      {
+        "name": "COVID-19",
+        "symptoms": ["Fever", "Cough", "Loss of taste/smell", "Breathing difficulty", "Fatigue"],
+        "prevention": ["Vaccination", "Wearing masks", "Hand hygiene", "Social distancing"],
+        "treatment": ["Supportive care", "Antiviral medications", "Oxygen therapy"]
+      },
+      {
+        "name": "Chickenpox",
+        "symptoms": ["Itchy rash", "Blisters", "Fever", "Fatigue"],
+        "prevention": ["Varicella vaccine", "Avoid contact with infected persons"],
+        "treatment": ["Antihistamines", "Calamine lotion", "Antiviral medications"]
+      },
+      {
+        "name": "Measles",
+        "symptoms": ["Fever", "Cough", "Runny nose", "Rash", "Red eyes"],
+        "prevention": ["MMR vaccine", "Avoid exposure"],
+        "treatment": ["Vitamin A supplements", "Fever reducers", "Supportive care"]
+      },
+      {
+        "name": "Hepatitis B",
+        "symptoms": ["Fatigue", "Jaundice", "Dark urine", "Abdominal pain"],
+        "prevention": ["Vaccination", "Avoid sharing needles", "Safe sex"],
+        "treatment": ["Antiviral medications", "Liver monitoring"]
+      },
+      {
+        "name": "Hepatitis C",
+        "symptoms": ["Fatigue", "Jaundice", "Nausea", "Muscle pain"],
+        "prevention": ["Avoid sharing needles", "Screening blood", "Safe sex"],
+        "treatment": ["Antiviral therapy"]
+      },
+      {
+        "name": "HIV/AIDS",
+        "symptoms": ["Weight loss", "Fever", "Night sweats", "Fatigue", "Infections"],
+        "prevention": ["Safe sex", "Avoid sharing needles", "Antiretroviral PrEP"],
+        "treatment": ["Antiretroviral therapy (ART)"]
+      },
+      {
+        "name": "Typhoid",
+        "symptoms": ["High fever", "Weakness", "Abdominal pain", "Constipation/diarrhea"],
+        "prevention": ["Safe drinking water", "Proper sanitation", "Vaccination"],
+        "treatment": ["Antibiotics", "Hydration", "Rest"]
+      },
+      {
+        "name": "Urinary Tract Infection (UTI)",
+        "symptoms": ["Burning sensation during urination", "Frequent urge to urinate", "Cloudy urine"],
+        "prevention": ["Good hygiene", "Stay hydrated", "Urinate after intercourse"],
+        "treatment": ["Antibiotics", "Fluids"]
+      },
+      {
+        "name": "Allergies",
+        "symptoms": ["Sneezing", "Itchy eyes", "Rashes", "Swelling", "Runny nose"],
+        "prevention": ["Avoid allergens", "Use air purifiers", "Wear protective gear"],
+        "treatment": ["Antihistamines", "Steroids", "Allergy shots"]
+      },
+      {
+        "name": "Migraine",
+        "symptoms": ["Severe headache", "Nausea", "Sensitivity to light/sound", "Aura"],
+        "prevention": ["Avoid triggers", "Manage stress", "Regular sleep"],
+        "treatment": ["Pain relievers", "Triptans", "Preventive medications"]
+      },
+      {
+        "name": "Anemia",
+        "symptoms": ["Fatigue", "Pale skin", "Shortness of breath", "Dizziness"],
+        "prevention": ["Iron-rich diet", "Treat underlying causes"],
+        "treatment": ["Iron supplements", "Folic acid", "B12 injections"]
+      },
+      {
+        "name": "Gastritis",
+        "symptoms": ["Stomach pain", "Nausea", "Bloating", "Vomiting"],
+        "prevention": ["Avoid spicy foods", "Limit alcohol", "Avoid NSAIDs"],
+        "treatment": ["Antacids", "Proton pump inhibitors", "Antibiotics (if H. pylori)"]
+      },
+      {
+        "name": "Arthritis",
+        "symptoms": ["Joint pain", "Swelling", "Stiffness", "Decreased mobility"],
+        "prevention": ["Exercise", "Maintain healthy weight", "Avoid joint injuries"],
+        "treatment": ["Pain relievers", "Anti-inflammatory drugs", "Physical therapy"]
+      },
+      {
+        "name": "Skin Fungal Infection",
+        "symptoms": ["Redness", "Itching", "Flaky skin", "Rash"],
+        "prevention": ["Keep skin dry", "Avoid shared towels/clothes", "Wear breathable fabrics"],
+        "treatment": ["Antifungal creams", "Oral antifungals"]
+      },
+      {
+        "name": "Conjunctivitis",
+        "symptoms": ["Red eyes", "Itching", "Discharge", "Watery eyes"],
+        "prevention": ["Avoid touching eyes", "Wash hands frequently", "Don’t share personal items"],
+        "treatment": ["Antibiotic eye drops", "Cool compress", "Artificial tears"]
+      },
+      {
+        "name": "Depression",
+        "symptoms": ["Persistent sadness", "Loss of interest", "Fatigue", "Sleep issues", "Hopelessness"],
+        "prevention": ["Mental health awareness", "Early intervention", "Healthy coping mechanisms"],
+        "treatment": ["Therapy", "Antidepressant medications", "Lifestyle changes"]
+      },
+      {
+        "name": "Appendicitis",
+        "symptoms": ["Lower right abdominal pain", "Nausea", "Vomiting", "Fever"],
+        "prevention": ["No known guaranteed prevention", "Healthy diet may reduce risk"],
+        "treatment": ["Surgical removal of appendix", "Antibiotics"]
+      },
+      {
+        "name": "Bronchitis",
+        "symptoms": ["Persistent cough", "Mucus production", "Fatigue", "Shortness of breath"],
+        "prevention": ["Avoid smoking", "Stay away from irritants", "Get flu vaccine"],
+        "treatment": ["Cough medicine", "Rest", "Hydration"]
+      },
+      {
+        "name": "Sinusitis",
+        "symptoms": ["Facial pain", "Nasal congestion", "Headache", "Postnasal drip"],
+        "prevention": ["Avoid colds", "Use humidifiers", "Manage allergies"],
+        "treatment": ["Decongestants", "Nasal sprays", "Antibiotics (if bacterial)"]
+      },
+      {
+        "name": "Otitis Media (Ear Infection)",
+        "symptoms": ["Ear pain", "Hearing difficulty", "Fever", "Irritability"],
+        "prevention": ["Avoid smoke exposure", "Vaccinate", "Breastfeeding"],
+        "treatment": ["Pain relievers", "Antibiotics", "Warm compress"]
+      },
+      {
+        "name": "Gastroenteritis",
+        "symptoms": ["Diarrhea", "Vomiting", "Abdominal cramps", "Fever"],
+        "prevention": ["Hand hygiene", "Clean food and water", "Vaccination (rotavirus)"],
+        "treatment": ["Hydration", "Rest", "Antiemetics"]
+      },
+      {
+        "name": "Cholera",
+        "symptoms": ["Watery diarrhea", "Dehydration", "Vomiting", "Muscle cramps"],
+        "prevention": ["Clean water", "Sanitation", "Vaccination"],
+        "treatment": ["Oral rehydration salts", "IV fluids", "Antibiotics"]
+      },
+      {
+        "name": "Whooping Cough (Pertussis)",
+        "symptoms": ["Severe coughing fits", "Whooping sound", "Vomiting after cough"],
+        "prevention": ["DTaP vaccine", "Avoid infected individuals"],
+        "treatment": ["Antibiotics", "Supportive care"]
+      },
+      {
+        "name": "Tetanus",
+        "symptoms": ["Muscle stiffness", "Jaw cramping", "Difficulty swallowing", "Seizures"],
+        "prevention": ["Tetanus vaccine", "Proper wound care"],
+        "treatment": ["Tetanus immune globulin", "Muscle relaxants", "Antibiotics"]
+      },
+      {
+        "name": "Rabies",
+        "symptoms": ["Fever", "Hydrophobia", "Anxiety", "Confusion", "Paralysis"],
+        "prevention": ["Rabies vaccine", "Avoid animal bites", "Pet vaccination"],
+        "treatment": ["Post-exposure prophylaxis", "Supportive care"]
+      },
+      {
+        "name": "Scabies",
+        "symptoms": ["Intense itching", "Rash", "Sores", "Burrows in skin"],
+        "prevention": ["Avoid direct skin contact", "Wash bedding/clothing in hot water"],
+        "treatment": ["Topical scabicides", "Oral ivermectin"]
+      },
+      {
+        "name": "Ringworm",
+        "symptoms": ["Red circular rash", "Itching", "Flaky skin"],
+        "prevention": ["Good hygiene", "Avoid shared personal items"],
+        "treatment": ["Antifungal creams", "Oral antifungals"]
+      },
+      {
+        "name": "Psoriasis",
+        "symptoms": ["Scaly red patches", "Dry skin", "Itching", "Joint pain (psoriatic arthritis)"],
+        "prevention": ["Manage stress", "Avoid triggers", "Moisturize"],
+        "treatment": ["Topical treatments", "Phototherapy", "Immunosuppressants"]
+      },
+      {
+        "name": "Eczema (Atopic Dermatitis)",
+        "symptoms": ["Dry itchy skin", "Red rashes", "Cracked skin"],
+        "prevention": ["Moisturize regularly", "Avoid allergens", "Gentle skin care"],
+        "treatment": ["Topical corticosteroids", "Moisturizers", "Antihistamines"]
+      },
+      {
+        "name": "Cervical Cancer",
+        "symptoms": ["Abnormal vaginal bleeding", "Pelvic pain", "Pain during intercourse"],
+        "prevention": ["HPV vaccination", "Regular Pap tests", "Safe sex"],
+        "treatment": ["Surgery", "Radiation", "Chemotherapy"]
+      },
+      {
+        "name": "Prostate Cancer",
+        "symptoms": ["Urinary problems", "Pelvic pain", "Blood in urine", "Erectile dysfunction"],
+        "prevention": ["Healthy diet", "Screening (PSA tests)"],
+        "treatment": ["Surgery", "Radiation", "Hormone therapy"]
+      },
+      {
+        "name": "Glaucoma",
+        "symptoms": ["Vision loss", "Eye pain", "Blurred vision", "Halos around lights"],
+        "prevention": ["Regular eye exams", "Manage eye pressure"],
+        "treatment": ["Eye drops", "Laser treatment", "Surgery"]
+      },
+      {
+        "name": "Cataracts",
+        "symptoms": ["Cloudy vision", "Sensitivity to light", "Poor night vision"],
+        "prevention": ["Wear sunglasses", "No smoking", "Regular eye exams"],
+        "treatment": ["Cataract surgery"]
+      },
+      {
+        "name": "Epilepsy",
+        "symptoms": ["Seizures", "Loss of consciousness", "Confusion"],
+        "prevention": ["Prevent head injuries", "Prenatal care"],
+        "treatment": ["Antiepileptic drugs", "Surgery (in some cases)"]
+      }
+    ]
+    
+  }
+  
